@@ -1,5 +1,5 @@
-# Text_Translation_tf_-RNN
-Translating Kalenjin (Kenyan Local Language)
+# Text_Translation
+Translating Kalenjin (Kenyan Local Language) to English using RNN
 
 ## Context
 Neural networks have a lot of depth and require a lot more tinkering.
